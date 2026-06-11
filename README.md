@@ -86,7 +86,7 @@ This research pack can support a later playbook covering:
 - **Claude Code extension for Cursor** - target extension: `anthropic.claude-code`.
 - **Codex extension for Cursor** - target extension: `openai.chatgpt`.
 
-## Steps Completed
+## Initial Setup Steps Completed
 
 1. Checked whether Git, GitHub CLI, and Cursor were already available on my computer.
 2. Found that Git and Cursor were not initially available from the command line.
@@ -95,7 +95,7 @@ This research pack can support a later playbook covering:
 5. Installed Git for Windows.
 6. Created this local project folder for the portfolio setup task.
 7. Created this `README.md` file to document the tools installed, steps completed, issues encountered, and solutions.
-8. Prepared the repository for committing and pushing to GitHub.
+8. Committed and pushed the setup README to GitHub.
 
 ## Issues I Ran Into
 
@@ -133,7 +133,7 @@ I checked the running processes, confirmed Cursor was installed, stopped the stu
 The Claude Code and Codex extensions require logging in to their respective accounts after installation.
 
 **How I handled it:**  
-I identified the target extensions and will complete the login step inside Cursor using the Extensions panel:
+I identified the target extensions and handled the account login step inside Cursor using the Extensions panel:
 
 - Claude Code: `anthropic.claude-code`
 - Codex: `openai.chatgpt`
@@ -150,11 +150,6 @@ This task helped me practice a simple but important workflow:
 
 The main lesson is that tool setup is part of the work. When something fails, the useful response is to inspect the error, identify the next smallest step, and keep moving.
 
-## Next Steps
+## Current Status
 
-- Open this repository in Cursor.
-- Install and log in to Claude Code.
-- Install and log in to Codex.
-- Commit this README.
-- Push the repository to GitHub.
-- Send the public GitHub README link.
+The setup task and the AI-powered SEO content production research task have both been committed and pushed to GitHub. The repository now contains the setup documentation, transcript collection script, expert source index, transcript files, LinkedIn/public profile notes, and supporting source materials.

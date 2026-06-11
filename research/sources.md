@@ -7,7 +7,7 @@ I chose this topic because it connects growth marketing, content operations, AI-
 ## Collection Methods
 
 - YouTube transcripts were collected with `youtube-transcript-api` where transcripts were available.
-- LinkedIn posts were manually collected from public indexed snippets/search results because LinkedIn does not expose easy public post access without login and scraping restrictions.
+- LinkedIn/public profile notes were manually collected because LinkedIn does not expose easy public post access without login and scraping restrictions.
 - Articles, talks, and webinar pages were collected from public web sources.
 - I prioritized practitioners with direct operator experience: founders, CMOs, SEO consultants, content leads, and research-driven marketers.
 
