@@ -2,6 +2,83 @@
 
 This repository documents my first setup task for an AI-native growth marketing portfolio project. The goal was to install the required tools, create a public GitHub repository, and document the process clearly.
 
+## Research Project: AI-Powered SEO Content Production
+
+For the second portfolio step, I chose **AI-powered SEO content production**.
+
+I chose this topic because it connects directly to AI-native growth marketing: content strategy, SEO, AI search, editorial quality control, and repeatable marketing workflows. It is also a topic where the quality of sources matters. Generic AI content advice is easy to find, so I focused on practitioners who actively build, test, teach, or challenge SEO and content systems in public.
+
+## What I Collected
+
+- A source index of 10 experts: `research/sources.md`
+- YouTube transcript files collected with a free transcript API method: `research/youtube-transcripts/`
+- Public LinkedIn/profile notes organized by author: `research/linkedin-posts/`
+- Additional public articles and materials: `research/other/articles-and-materials.md`
+- A transcript collection script: `scripts/collect_youtube_transcripts.py`
+
+## Repository Structure
+
+```text
+research/
+  sources.md
+  linkedin-posts/
+    kevin-indig.md
+    lily-ray.md
+    mike-king.md
+    aleyda-solis.md
+    bernard-huang.md
+    ryan-law.md
+    ross-simmonds.md
+    andy-crestodina.md
+    tim-soulo.md
+    rand-fishkin.md
+  youtube-transcripts/
+    index.json
+    kevin-indig-seo-age-of-ai.md
+    lily-ray-ai-search-fact-fiction.md
+    mike-king-ai-results-2026.md
+    aleyda-solis-ai-search-action-checklist.md
+    bernard-huang-future-discoverability.md
+    ryan-law-ai-search-real-data.md
+    ross-simmonds-ai-seo-rank.md
+    andy-crestodina-ai-funnel.md
+  other/
+    articles-and-materials.md
+scripts/
+  collect_youtube_transcripts.py
+```
+
+## Collection Method
+
+I used Codex to help structure the repository, write the collection script, and organize the research notes. For YouTube, I used `youtube-transcript-api` to collect transcripts when captions were available. The script saves each transcript as a Markdown file and also creates an `index.json` file showing the collection status for each video.
+
+For LinkedIn, I did not use automated scraping because LinkedIn public access is limited and scraping can create account or policy issues. Instead, I created manually collected public profile and theme notes for each expert, then connected those notes to stronger public sources such as blogs, videos, company sites, and newsletters.
+
+## Expert Selection Criteria
+
+I selected experts who are useful for a real AI-powered SEO content production playbook:
+
+- They are practitioners, founders, CMOs, SEO consultants, or content operators.
+- They publish or teach about AI search, SEO, content quality, audience research, or B2B content distribution.
+- Their material is specific enough to support later synthesis, not just generic AI advice.
+- Together, they cover technical SEO, editorial quality, AI search visibility, distribution, analytics, and strategy.
+
+## Limitations
+
+One selected YouTube transcript for Ross Simmonds was not available through the free transcript collection method. I kept the placeholder file and documented the unavailable status in `research/youtube-transcripts/index.json` instead of removing it, because the limitation is useful context for the research process.
+
+## Future Playbook Direction
+
+This research pack can support a later playbook covering:
+
+1. How to choose AI-assisted SEO content opportunities.
+2. How to collect expert and source material before drafting.
+3. How to use AI for research support without publishing generic output.
+4. How to fact-check and edit AI-assisted drafts.
+5. How to optimize for classic search and AI answer engines.
+6. How to distribute content beyond a blog post.
+7. How to measure visibility when clicks are harder to rely on.
+
 ## Tools Installed
 
 - **Cursor IDE** - installed through Windows Package Manager (`winget`) using the package `Anysphere.Cursor`.
