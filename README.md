@@ -12,7 +12,7 @@ I chose this topic because it connects directly to AI-native growth marketing: c
 
 - A source index of 10 experts: `research/sources.md`
 - YouTube transcript files collected with a free transcript API method: `research/youtube-transcripts/`
-- Public LinkedIn/profile notes organized by author: `research/linkedin-posts/`
+- LinkedIn recent-activity notes checked through signed-in browser access and organized by author: `research/linkedin-posts/`
 - Additional public articles and materials: `research/other/articles-and-materials.md`
 - A transcript collection script: `scripts/collect_youtube_transcripts.py`
 
@@ -52,7 +52,7 @@ scripts/
 
 I used Codex to help structure the repository, write the collection script, and organize the research notes. For YouTube, I used `youtube-transcript-api` to collect transcripts when captions were available. The script saves each transcript as a Markdown file and also creates an `index.json` file showing the collection status for each video.
 
-For LinkedIn, I did not use automated scraping because LinkedIn public access is limited and scraping can create account or policy issues. Instead, I created manually collected public profile and theme notes for each expert, then connected those notes to stronger public sources such as blogs, videos, company sites, and newsletters.
+For LinkedIn, I used signed-in browser access to check visible recent activity pages on 2026-06-11. I summarized the posts and profile signals instead of copying full post text into the repository, then connected those notes to stronger public sources such as blogs, videos, company sites, and newsletters.
 
 ## Expert Selection Criteria
 
@@ -152,4 +152,4 @@ The main lesson is that tool setup is part of the work. When something fails, th
 
 ## Current Status
 
-The setup task and the AI-powered SEO content production research task have both been committed and pushed to GitHub. The repository now contains the setup documentation, transcript collection script, expert source index, transcript files, LinkedIn/public profile notes, and supporting source materials.
+The setup task and the AI-powered SEO content production research task have both been committed and pushed to GitHub. The repository now contains the setup documentation, transcript collection script, expert source index, transcript files, LinkedIn recent-activity notes, and supporting source materials.

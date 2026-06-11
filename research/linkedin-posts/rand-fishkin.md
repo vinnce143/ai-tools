@@ -5,18 +5,20 @@ Topic fit: audience research, zero-click search, AI search impact, realistic mar
 
 ## Collection Note
 
-Rand Fishkin was included as a counterbalance to tactical AI SEO advice. His public material is useful for understanding how AI search and zero-click behavior can change traffic expectations and content strategy.
+Checked through signed-in LinkedIn browser access on 2026-06-11. I summarized visible recent activity instead of copying full posts into this public repository.
+
+Recent activity page: https://www.linkedin.com/in/randfishkin/recent-activity/all/
 
 ## Recent Themes to Track
 
-- Search behavior is increasingly zero-click, which affects how marketers should value SEO.
-- Audience research should guide content strategy rather than relying only on keyword tools.
-- Marketers should be cautious about hype and should test whether a channel actually reaches buyers.
-- AI search may reduce some clicks while increasing the importance of brand mentions and trusted sources.
+- Rand is actively discussing why B2B buyers are not clicking and how visibility is changing as traffic and attribution weaken.
+- Recent activity referenced research showing a large share of Google searches now end without a click.
+- His current positioning around Zero Click Marketing makes him a useful counterweight to playbooks that only optimize for organic traffic.
+- AI-powered SEO content production should account for brand visibility, audience influence, and demand creation even when clicks are not the primary output.
+- His material helps frame SEO as part of a broader visibility system, not only a ranking-and-traffic channel.
 
 ## Useful Links
 
 - LinkedIn: https://www.linkedin.com/in/randfishkin/
 - SparkToro blog: https://sparktoro.com/blog/
 - SparkToro: https://sparktoro.com/
-

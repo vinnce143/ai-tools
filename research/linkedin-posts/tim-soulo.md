@@ -5,18 +5,20 @@ Topic fit: SEO strategy, Ahrefs content strategy, content quality, AI content cr
 
 ## Collection Note
 
-No transcript was collected for Tim Soulo in this round. He was included as a high-signal operator because of his role leading marketing at Ahrefs and his public writing on SEO and content strategy.
+Checked through signed-in LinkedIn browser access on 2026-06-11. I summarized visible recent activity instead of copying full posts into this public repository.
+
+Recent activity page: https://www.linkedin.com/in/timsoulo/recent-activity/all/
 
 ## Recent Themes to Track
 
-- Content strategy should be grounded in business value, search demand, and audience needs.
-- Scaling content without quality, originality, or distribution is unlikely to produce durable results.
-- SEO teams should avoid blindly chasing traffic if it does not support business outcomes.
-- AI-assisted content must still be judged by usefulness, accuracy, and differentiation.
+- Tim's visible recent activity shows Ahrefs opening useful SEO data access, such as making the Domain Rating API endpoint free.
+- His recent post ties AI-assisted tool building to the need for quality data, not just the ability to code or automate.
+- For AI-powered SEO production, this supports a data-first workflow: use reliable SEO metrics and authority signals when choosing topics, competitors, and link targets.
+- His operator perspective is useful for connecting content production to product-led SEO data and business outcomes.
+- He remains a strong source for practical SEO strategy and Ahrefs-driven content operations.
 
 ## Useful Links
 
 - LinkedIn: https://www.linkedin.com/in/timsoulo/
 - Ahrefs author page: https://ahrefs.com/blog/author/tim-soulo/
 - Ahrefs blog: https://ahrefs.com/blog/
-
